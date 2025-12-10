@@ -1,0 +1,26 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "description": "Something",
+      "completed": false,
+      "created_at": "2026-01-27T20:31:09.095554159+03:00",
+      "completed_at": "0001-01-01T00:00:00Z"
+    },
+    {
+      "id": 3,
+      "description": "Something2",
+      "completed": false,
+      "created_at": "2026-01-27T20:31:39.311811503+03:00",
+      "completed_at": "0001-01-01T00:00:00Z"
+    },
+    {
+      "id": 4,
+      "description": "Something4",
+      "completed": false,
+      "created_at": "2026-01-27T20:31:42.668818727+03:00",
+      "completed_at": "0001-01-01T00:00:00Z"
+    }
+  ],
+  "next_id": 5
+}
